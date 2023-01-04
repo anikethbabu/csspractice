@@ -14,3 +14,5 @@ element + element (Selects second element if it is directely after the first ele
 :first-child (Selects the last child of the element) <br />
 !important (Makes the Css statment have priority over everything else) <br />
 
+### BoxModel
+The BoxModel is a description of how html models are organized on the screen. It starts with the content, then you can add padding to the content. After that you can have a border then finally comes the margin. These all play a role in keeping content organized in ways you want to.
