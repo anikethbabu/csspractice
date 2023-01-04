@@ -1,0 +1,38 @@
+/*Selector {
+	Property:value;
+}*/
+body{
+	background-image: url(backgroundimage.jfif);
+	background-size: cover;
+}
+
+h2 {
+	color : #0C99CE;
+	text-align: center;
+	border : 5px dashed rgba(206, 65, 12,0.5);
+	cursor : pointer;
+}
+p {
+	color : pink;
+	line-height: 20px;
+	font-style : italic;
+	font-weight: bold;
+	font-size : 80%;
+	font-family: 'Tangerine', serif;
+}
+
+p {
+	color : green;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+.webtext {
+	border: green dashed 5px;
+
+}
+
+.active {
+	color:red;
+}
